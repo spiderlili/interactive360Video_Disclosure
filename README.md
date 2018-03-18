@@ -1,5 +1,7 @@
 # interactive360Video_Disclosure
 
+How To Use:
+
 main menu scene:
 A test bed to run directly in the editor without a vr headset.
 It has a directional light and a camera with a camera editor control script on it to emulate head movement using a mouse. turn this off for now. hover over any of the buttons to load a new scene which will contain a 360 video. hit pause to pause the video and hit play to play the video again
